@@ -5,9 +5,9 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+
+import sys
 import os
-import requests
-import shutil
 
 
 project = 'This is an anti-pattern'
